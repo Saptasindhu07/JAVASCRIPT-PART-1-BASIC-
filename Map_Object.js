@@ -1,0 +1,6 @@
+let map_object_new=new Map()
+map_object_new.set("Sapta","Good Student")
+map_object_new.set("Shreejit","Very Good Student")
+map_object_new.set("Hindol","Raam Raam Student")
+console.log(map_object_new)
+console.log(map_object_new.keys())
